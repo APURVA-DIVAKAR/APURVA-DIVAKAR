@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Apurva Divakar</h1>
 <h3 align="left">A passionate Full stack web developer from Jodhpur,India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=APURVA-DIVAKAR&label=Profile%20views&color=0e75b6&style=flat" alt="bigyankumar" /> </p>
+
 - 🌱 I’m currently learning **MEARN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/APURVA-DIVAKAR?tab=repositories](https://github.com/APURVA-DIVAKAR?tab=repositories)
