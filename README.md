@@ -67,7 +67,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://apurvaportfolio.vercel.app/](https://apurvaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://apurvaportfolio-blush.vercel.app/](https://apurvaportfolio-blush.vercel.app/)
 
 - 💬 Ask me about **React/JS/NODE**
 
